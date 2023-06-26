@@ -1,1 +1,3 @@
-
+To check the details about preprocessing, please open Functions for Preprocessing Earning Call Transcripts.ipynb 
+Import Functions for Preprocessing Earning Call Transcripts.py for calling helper function to preprocess earning call transcripts
+Sample codes can be found in 1. Preprocessing Earning Transcripts Sample Notebook.ipynb
