@@ -1,0 +1,18 @@
+bertopic==0.14.1
+contractions==0.1.73
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
+en-core-web-trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.5.0/en_core_web_trf-3.5.0-py3-none-any.whl
+gensim==3.8.3
+hdbscan==0.8.29
+huggingface-hub==0.13.0
+matplotlib @ file:///opt/concourse/worker/volumes/live/f7797860-f8aa-410c-4a56-72315954816b/volume/matplotlib-base_1603378002957/work
+nltk==3.8.1
+numpy==1.24.3
+pandas==1.2.0
+scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1611079794517/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
+sentence-transformers==2.2.2
+spacy==3.5.2
+spacy-transformers==1.2.2
+tokenizers==0.13.2
+umap-learn @ file:///Users/runner/miniforge3/conda-bld/umap-learn_1649908260024/work
