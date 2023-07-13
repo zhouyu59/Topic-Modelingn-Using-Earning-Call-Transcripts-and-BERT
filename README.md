@@ -6,7 +6,8 @@ to gain insights about econimic situation and help people to make decision for b
 Below are some important insights that were found from the results:
 
 1.
-<img src="https://github.com/zhouyu59/Topic-Modelingn-Using-Earning-Call-Transcripts-and-BERT/assets/124629778/2be0e476-9023-4114-b99f-8af04ab6db5c" width="500">
+<img src="https://github.com/zhouyu59/Topic-Modelingn-Using-Earning-Call-Transcripts-and-BERT/assets/124629778/98ee9c89-70b3-40bb-8c3e-161bef0c6db5
+" width="500">
 
 Pearsons correlation: -0.708
 
