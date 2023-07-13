@@ -13,7 +13,7 @@ Pearsons correlation: -0.708
 Frequency of Topic 1 (COVID-19 panmdeic) is negatively correlated with Topic 6 (insurance, reinsurance). The results demonstrated that COVID-19 pandemic had a negative impact on insurance industry. Reports from Deloitte and PwC also showed and confirmed that there was a negative impact on insurance industry during COVID pandemic. Customers stopped paying and renewing their insurance during COVID pandemic because they cannot afford premium or anuity payment. Furthermore, people are less likely to travel and leave their home. As a result, people will not renew car insurance or other types of insurances. Thus, during pandemic, insurance companies had reduced claims, and this led to insurers purchasing less reinsurance (1,2).
 
 2.
-<img src="https://github.com/zhouyu59/Topic-Modelingn-Using-Earning-Call-Transcripts-and-BERT/assets/124629778/7e2035db-9f83-44d5-8026-3051c1bea5a6" width="500">
+<img src="https://github.com/zhouyu59/Topic-Modelingn-Using-Earning-Call-Transcripts-and-BERT/assets/124629778/ae707705-25f7-489f-bdbf-157f384f9a87" width="500">
 
 Pearsons correlation: 0.609
 
