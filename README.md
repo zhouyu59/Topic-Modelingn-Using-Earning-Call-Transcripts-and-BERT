@@ -30,7 +30,8 @@ Graph of deposit rate (3):
 
 Graph of VIX (4):
 
-<img src="https://github.com/zhouyu59/Topic-Modelingn-Using-Earning-Call-Transcripts-and-BERT/assets/124629778/9191f885-93db-4574-add6-286272841134" width="500">
+<img src="https://github.com/zhouyu59/Topic-Modelingn-Using-Earning-Call-Transcripts-and-BERT/assets/124629778/84f5bef6-24bd-458e-ad6d-57c4cf333b26"
+ width="500">
 
 
 Both graphs peak at 2008 and 2020.
