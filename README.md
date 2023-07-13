@@ -20,10 +20,12 @@ Pearsons correlation: 0.609
 Frequency of Topic 2 (deposit rate, deposit, deposit beta) is positively correlated with Topic 18 (volatility, VIX). The results demonstrated that high deposit rate might indicate that the market is more volatile. The correlation could also be observed from the graph of VIX and the graph of deposit rate. 
 
 Graph of deposit rate (3):
-![image](https://github.com/zhouyu59/Topic-Modelingn-Using-Earning-Call-Transcripts-and-BERT/assets/124629778/7988d780-8675-464c-9b3f-293a4b62f0ad)
+<img src="https://github.com/zhouyu59/Topic-Modelingn-Using-Earning-Call-Transcripts-and-BERT/assets/124629778/7988d780-8675-464c-9b3f-293a4b62f0ad" width="500">
+
 
 Graph of VIX (4):
-![image](https://github.com/zhouyu59/Topic-Modelingn-Using-Earning-Call-Transcripts-and-BERT/assets/124629778/9191f885-93db-4574-add6-286272841134)
+<img src="https://github.com/zhouyu59/Topic-Modelingn-Using-Earning-Call-Transcripts-and-BERT/assets/124629778/9191f885-93db-4574-add6-286272841134" width="500">
+
 
 Both graphs peak at 2008 and 2020.
 
