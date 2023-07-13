@@ -24,7 +24,8 @@ Graph of deposit rate (3):
 
 
 
-<img src="https://github.com/zhouyu59/Topic-Modelingn-Using-Earning-Call-Transcripts-and-BERT/assets/124629778/7988d780-8675-464c-9b3f-293a4b62f0ad" width="500">
+<img src="https://github.com/zhouyu59/Topic-Modelingn-Using-Earning-Call-Transcripts-and-BERT/assets/124629778/c6451e57-f2c8-456e-bcd4-cada936af43d"
+ width="500">
 
 
 Graph of VIX (4):
